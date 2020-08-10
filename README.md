@@ -36,7 +36,7 @@ O **Proffy** é uma plicação Web e Mobile, desenvolvida com o objetivo de faci
 2. Executando a Aplicação:
 
 ```sh
-  # Inicje o server
+  # Inicie o server
   $ npm run dev
 ```
 ## :memo: Licença
