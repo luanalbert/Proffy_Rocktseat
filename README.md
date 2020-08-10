@@ -1,17 +1,19 @@
 # nlw
-<h1 align="center"> Proffy Sua plataforma de ensinos on-line </h1>
+<h1 align="center"> Proffy- sua plataforma de ensinos on-line </h1>
 <h2 align="center">
     <img alt="Proffy" src="https://github.com/luanalbert/Proffy_Rocktseat/blob/master/public/images/logo.png" height="100px" />
 </h2>
+
 <p align="center">
     <img alt="preview" src="https://github.com/luanalbert/Proffy_Rocktseat/blob/master/public/images/89591917-c478e880-d821-11ea-84d6-591b6e94d8a1.png"/>
 </p>
+
 ## :bookmark: Sobre
 O **Proffy** é uma plicação Web e Mobile, desenvolvida com o objetivo de facilitar a vida de aulunos e professores. Nela é possivel os professores cadastrarem aulas que estão qualificado a dar, informando custo e horários por exemplos, para que possa facilitar a busca de suas aulas por alunos que estejam interessados.
 
 **Next Level Week #2** - [Rocketseat](https://rocketseat.com.br/).
 
-## :rocket: Tecnologias
+### :rocket: Tecnologias
 
 -  [Node.js](https://nodejs.org/en/)
 -  [Nunjucks](https://mozilla.github.io/nunjucks/)
