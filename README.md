@@ -15,7 +15,7 @@ O **Proffy** é uma plicação Web e Mobile, desenvolvida com o objetivo de faci
 
 ### :rocket: Tecnologias
 
--  [Node.js](https://nodejs.org/en/)
+-  [NodeJs](https://nodejs.org/en/)
 -  [Nunjucks](https://mozilla.github.io/nunjucks/)
 -  [Express](https://expressjs.com/)
 -  [SQLite](https://www.sqlite.org/index.html)
