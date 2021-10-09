@@ -44,4 +44,4 @@ O **Proffy** é uma plicação Web e Mobile, desenvolvida com o objetivo de faci
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
-<sup>Projeto desenvolvido com a tutoria de [Mayk Brito](https://github.com/maykbrito), da [Rocketseat](rocketseat.com.br).</sup>
+<sup>Projeto desenvolvido com a tutoria de [Mayk Brito](https://github.com/maykbrito), da [Rocketseat](https://github.com/Rocketseat).</sup>
